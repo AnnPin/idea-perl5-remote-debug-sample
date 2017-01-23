@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PERL5_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$USER_HOME$/perl5/bin" />
+    <content url="file://$USER_HOME$/perl5/lib/perl5">
+      <sourceFolder url="file://$USER_HOME$/perl5/lib/perl5" type="perl-library" />
+    </content>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="jdk" jdkName="Perl v5.18.2 (darwin-thread-multi-2level)" jdkType="Perl5 Interpreter" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

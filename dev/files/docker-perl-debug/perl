@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/usr/bin/perl -d:Camelcadedb ${1} 2>/dev/null
+exit 0
+
