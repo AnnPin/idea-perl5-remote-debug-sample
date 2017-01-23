@@ -23,3 +23,6 @@ Vagrant で Ubuntu14.04 (Trusty) の VM を立ち上げ、その中で Docker �
 *  コンテナが起動した後は、以下のコマンドでコンテナ環境内に入れるようになります。
     -  `make bash`
 
+*  詳細は Qiita で公開している [2017年 Perl5 との戦いに生き残るための最高の開発環境を手に入れる - リモートデバッグ 編](http://qiita.com/AnnPin/items/983a56a55d4b45f8e1f2) という記事を御覧ください。
+
+
